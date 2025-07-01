@@ -36,4 +36,4 @@
 
 ---
 
-https://github.com/arnavthakurr/arnavthakurr/blob/output/github-snake-dark.svg
+![snake gif](https://github.com/arnavthakurr/arnavthakurr/blob/output/github-snake-dark.svg)
